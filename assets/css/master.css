@@ -1435,7 +1435,7 @@ transition: all 0.2s ease-out .2s;box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);}
 .post-info.white-color a{color: #fff;}
 .post-info a:hover {color:#025387; text-decoration:none;}
 .post-info p {margin-top: 20px;color: #24182e;font-size: 14px;font-weight: 500;text-align: justify;}
-.post .post-metas{position: absolute;padding: 0;text-align: left;z-index: 9999;top: 0;margin: 20px 0 0 20px;}
+.post .post-metas{position: absolute;padding: 0;text-align: left;z-index: 9999;top: 0;margin: 0 20px;}
 .post .post-metas-center {display: inline-block;}
 .post .post-metas-center .post-date{font-size: 11px !important;margin: 0;color: #ffffff !important;font-weight: 600 !important;letter-spacing: 1px;text-transform: uppercase;
 float: left;margin-right: 5px;background: rgba(0, 0, 0,0.8);padding: 4px 8px 2px;}
@@ -2689,7 +2689,7 @@ section.big-block .client-logo {padding:10%;}
 }
 .num ul {
    list-style: conic-gradient;
-   padding: 20px;
+   padding: 0 20px;
 }
 .num li{
    font-family: 'Open Sans','sans-serif';
