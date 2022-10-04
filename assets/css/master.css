@@ -2200,7 +2200,7 @@ section.big-block .client-logo {padding:10%;}
 .default-slider .slide:focus, .testimonial-item:focus, .quote-item:focus, .client-logo:focus, .zoom-text:focus, .portfolio-slider .item:focus, .blog-grid-slider .item:focus, .member:focus, .blog-slider .post:focus, #product-slide .small-thumb:focus, #product-slider .big-thumb:focus, .model-slider .item-model:focus {outline: none;}
 .cover-bg{position: relative !important;background-size: cover !important;overflow: hidden !important;background-position: center !important;background-repeat: no-repeat !important;}
 .title-hero-bg {background-size: cover;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-repeat:no-repeat;background-position:center center;position: relative;min-height: 400px;}
-.title-hero-bg::before {content: "";background-color: rgba(0, 0, 0, 0.6);width: 100%;height: 100%;position: absolute;top: 0;left: 0;}
+.title-hero-bg::before {content: "";width: 100%;height: 100%;position: absolute;top: 0;left: 0;}
 .page-title{position:absolute;top:50%;width:100%;left:0;z-index:15;-webkit-transform:translate(0%, 50%);-moz-transform:translate(0%, 50%);-ms-transform:translate(0%, 50%);-o-transform:translate(0%, 50%);transform:translate(0%, 50%);}
 .page-title h1{font-size:50px;line-height:60px;margin:0;}
 .grid-box [class^=col-]{padding-top:15px;padding-bottom:15px;background-color:rgba(255, 255, 255,.05);border:1px solid rgba(0,0,0,.09);margin-top:5px;margin-bottom:5px;}
