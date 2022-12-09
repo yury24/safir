@@ -2845,6 +2845,7 @@ section.big-block .client-logo {padding:10%;}
 font-family: inherit;
 font-size: 14px;
 font-weight: lighter;
+color: #000;
 
 }
 li span{
@@ -2860,6 +2861,7 @@ font-size: 14px;
 font-family: inherit;
 font-size: 14px;
 padding-top: 0px;
+color: #000;
 }
 p span{
    font-weight: bold;
