@@ -2831,7 +2831,7 @@ section.big-block .client-logo {padding:10%;}
 
 @media only screen and (min-width:1900px){
    .title-hero-bg{
-      min-height: 1000px;
+      min-height: 600px;
    }
 }
 
@@ -2873,9 +2873,6 @@ color: #000;
 p span{
    font-weight: bold;
 }
-.img-post2{
-   margin-top: 40px;
-}
 .text-post2{
-   margin-top: 30px;
+   margin-bottom: 6px;
 }
