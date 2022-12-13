@@ -2828,6 +2828,13 @@ section.big-block .client-logo {padding:10%;}
    margin-top: 40px;
    }
 }
+
+@media only screen and (max-width:1300px){
+   .title-hero-bg{
+      min-height: 800px;
+   }
+}
+
 .btn.btn-sm2 {
    font-size: 39px !important;
 }
