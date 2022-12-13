@@ -2829,7 +2829,7 @@ section.big-block .client-logo {padding:10%;}
    }
 }
 
-@media only screen and (max-width:1900px){
+@media only screen and (min-width:1900px){
    .title-hero-bg{
       min-height: 800px;
    }
