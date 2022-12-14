@@ -2809,15 +2809,15 @@ section.big-block .client-logo {padding:10%;}
    .custom-team-row {
       display: grid; 
       align-items: center;
- }
- .team-info, .team-info > p {
+   }
+   .team-info, .team-info > p {
    color: white;
    margin: 10px;
- }
+   }
    .btn.btn-sm2 a{
    font-size: 19px !important; 
    padding: 10px; 
-   align-content: center;
+   align-content: left;
    display: grid; 
    }
    .btn-color2{
@@ -2844,6 +2844,9 @@ section.big-block .client-logo {padding:10%;}
    border: 2px solid #fff !important;
    border-radius: 10px !important;
    margin-top: 40px;
+}
+.btn-center2{
+   text-align: left;
 }
 .ar-numer{
    list-style-type: decimal;
