@@ -2882,3 +2882,16 @@ p span{
 .text-arti221 p{
    margin-top: 20px
 }
+
+.post {
+   margin: 20px auto;
+ }
+
+.normal li {
+   list-style: disc;
+   padding: 0 20px;
+   font-family: inherit;
+   font-size: 14px;
+   font-weight: lighter;
+   color: #000;
+ }
