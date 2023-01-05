@@ -956,7 +956,7 @@ input.search-bar-top:-moz-placeholder { color: #fff!important; }
 .first-letter-round {border-radius: 50%; font-size:35px; padding: 15px; width: 65px; height: 65px; line-height: 32px;}
 
 /* Images */
-.img-responsive, .full-width{width:520px;margin: 20px auto;padding-top: 20px;}
+.img-responsive, .full-width{width:520px;margin: 20px auto;padding: 20px;}
 
 /* Buttons */
 .btn, .form-control, .form-control:hover, .form-control:focus, .navbar-custom .dropdown-menu {-webkit-box-shadow: none;box-shadow: none;}
