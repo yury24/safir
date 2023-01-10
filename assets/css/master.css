@@ -171,7 +171,7 @@ html, body{position: relative;height: 100%;}
 body {color: #000;background: #fafafa;font-size:16px;font-family: 'Open Sans', sans-serif;font-weight: 400;line-height: 1.6;}
 iframe {border: 0;}
 video {background-size: cover;display: table-cell;vertical-align: middle;width: 100%;}
-.post-video {margin: 0 auto;min-height: 50%; min-width: 50%; position: relative; top: 50%;height: 500px;width: 500px; z-index: -3;}
+.post-video {margin: 40px;min-height: 50%; min-width: 50%; position: relative; height: auto;width: 700px; z-index: -3;}
 .html5-video {background-color: #000; height: auto; left: 50%; min-height: 100%; min-width: 100%; position: absolute; top: 50%; -ms-transform: translate(-50%, -50%); -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%);  width: auto; z-index: -3; }
 iframe, embed, object {max-width: 100%;}
 .wrapper {position: relative;z-index: 20;overflow-x: hidden;}
@@ -250,6 +250,8 @@ color: #fe4f4f;}
  color: #fff;display:none;}
 .contact-form-style-03 input, .contact-form-style-03 textarea, .contact-form-style-03 select {color:#fff;}
 .contact-form-style-03 select{height: 48px;}
+.cursive{font-style: italic;}
+.post-link a{font-size: 14px !important;}
 
 /* Sections */
 
@@ -2880,6 +2882,9 @@ p span{
 }
 .text-arti22 p{
    margin-top: 50px;
+}
+.text-arti23 p{
+   margin-top: 41px;
 }
 .text-arti221 p{
    margin-top: 20px
